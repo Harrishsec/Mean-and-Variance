@@ -58,7 +58,8 @@ Register Number :24009722
 
 
 # Output : 
-![Screenshot 2024-12-21 143910 1](https://github.com/user-attachments/assets/42fc51ba-d390-4df3-8a05-b1372c89a375)
+![Screenshot 2024-12-27 181755 1](https://github.com/user-attachments/assets/7a8adf2a-a3c0-4653-aa6a-ad6e879ee4ce)
+
 
 
 # Results :
